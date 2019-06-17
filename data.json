@@ -152,6 +152,14 @@ var data = [
     class:"am"
   },
   {
+    name : "오찬",
+    title : "간송문화전",
+    img : "imgs/b20.jpg",
+    gif : "gifs/b20.gif",
+    description : "전통의 컨셉을 현대적으로 해석",
+    class:"am"
+  },
+  {
     name : "강지원",
     title : "우주생활",
     img : "imgs/A1.jpg",
